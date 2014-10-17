@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqp:home|Door43 (mqp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqp|d43-mqp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqp/archive/master.zip|d43-mqp.zip]]
+
+**Recent Changes**
+{{changes>ns = mqp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqp|Ethnologue data]]
+
